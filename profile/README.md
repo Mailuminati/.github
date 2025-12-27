@@ -56,7 +56,7 @@ audited, and improved by the community.
 
 Some of the projects hosted under the Mailuminati organization include:
 
-- **Mailuminati Custos**  
+- **Mailuminati Guardian**  
   A distributed and collaborative email threat detection system based on
   structural fingerprinting, locality sensitive hashing, and remote confirmation.
 
